@@ -25,6 +25,7 @@ img {
 .flex {
   display: flex;
   justify-content: center;
+	
 }
 
 .selected {
